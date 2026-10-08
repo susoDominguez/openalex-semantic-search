@@ -28,7 +28,10 @@ cache/
 htmlcov/
 .ruff_cache/
 .mypy_cache/
+*.jsonl.gz
 
 # Editor settings
 .vscode/
 .idea/
+
+.climate-search-key
